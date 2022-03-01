@@ -23,7 +23,7 @@ verify                   Verify a schnorr signature
 ## Binaries
 
 [Linux amd64](https://drive.google.com/file/d/1tce4oNqHikBUpRoTnjPWXGjXpnvrdqZt)
-(SHA256 1681b9058e7ca6deb3bbe3441a702446e6cdeae9e4186c93761c6d3f62de704d)
+(SHA256 7c52c5920e988419c515637561682d6bcc5ac5239b8975c45117e28917625b25)
 
 ## Secp256k1 Dependency
 
