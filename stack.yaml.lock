@@ -52,11 +52,11 @@ packages:
     git: https://github.com/prolic/secp256k1-schnorr.git
     pantry-tree:
       size: 773
-      sha256: 5bb4b424c06201b0ba480a1eb86406bf1dd938951bb0f4f7fcd39399c0d453d9
-    commit: bdfb38a9cf170e95c373ceb564f7c5e5232b6542
+      sha256: 83cbd019d4a3411110a493a030e5c9f1132934545f6ebec15f0e8768603b3cca
+    commit: 166b0d27d79e732731a54c7ec8e27e8f939cb6f5
   original:
     git: https://github.com/prolic/secp256k1-schnorr.git
-    commit: bdfb38a9cf170e95c373ceb564f7c5e5232b6542
+    commit: 166b0d27d79e732731a54c7ec8e27e8f939cb6f5
 snapshots:
 - completed:
     size: 590102
