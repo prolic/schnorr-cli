@@ -1,6 +1,6 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.34.4.
+-- This file has been generated from package.yaml by hpack version 0.34.7.
 --
 -- see: https://github.com/sol/hpack
 
@@ -23,8 +23,6 @@ executable schnorr
   hs-source-dirs:
       src
   ghc-options: -fwarn-incomplete-patterns -threaded
-  extra-libraries:
-      secp256k1
   build-depends:
       base
     , base16
