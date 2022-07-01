@@ -26,7 +26,6 @@ executables:
   schnorr:
     source-dirs:      src
     main:             Main.hs
-    extra-libraries:  secp256k1
     ghc-options:
     - -fwarn-incomplete-patterns
     - -threaded
